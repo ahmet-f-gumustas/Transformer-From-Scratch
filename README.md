@@ -23,3 +23,6 @@ To get started with this project, you will need to clone the repository and inst
 git clone https://github.com/ahmet-f-gumustas/Transformers-From-Scratch.git
 cd transformer-implementation
 pip install -r requirements.txt
+```
+
+```
